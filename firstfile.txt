@@ -1,0 +1,1 @@
+Welcome to this Git repository of the Java training at Abis 2022.
